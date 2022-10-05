@@ -1,8 +1,0 @@
-Open QT Creator:
-
-Qt5.7.0/Tools/QtCreator/bin
-./qtcreator
-
-
-github token:
-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
